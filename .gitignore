@@ -1,0 +1,8 @@
+# Mengabaikan dataset mentah berukuran besar
+data.csv
+
+# Mengabaikan folder virtual environment jika ada
+venv/
+.venv/
+__pycache__/
+.streamlit/
